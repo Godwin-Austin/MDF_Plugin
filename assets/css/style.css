@@ -1,0 +1,14 @@
+.level {
+  border: 1px solid black;
+  padding: 1em;
+  margin: 10px;
+}
+.level1 {
+  box-decoration-break: slice;
+}
+.level2 {
+  box-decoration-break: clone;
+}
+.level3 {
+  box-decoration-break: clone;
+}
